@@ -25,7 +25,7 @@ class UserList extends Component {
                         </div>
                     <div className="ai-c">
                         <div className="number-of-user">
-                            Number of users: <span id="user-count"></span>
+                            Number of users: {this.props.userList.length}
                         </div>
                     </div>
                 </div>

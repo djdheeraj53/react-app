@@ -31,6 +31,7 @@ To run this project, install it locally using npm:
   * npm install --save react-router-dom
 
 ## Screenshot
-![Screen 1](/public/screen1.png)
-![Screen 2](/public/screen2.png)
+  * Screen 1 ![Screen 1](/public/screen1.png)
+  * Screen 2 ![Screen 2](/public/screen2.png)
+  * Project Structure ![Project Structure](/public/projectStructure.png)
 
